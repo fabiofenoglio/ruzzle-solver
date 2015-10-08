@@ -1,0 +1,601 @@
+CAPRESE 105
+cRAr
+EiPC
+lSip
+Eept
+
+LIPARESE 88
+cRAr
+EIPc
+LSip
+Eept
+
+PRESELI 79
+cRar
+EIPc
+LSip
+Eept
+
+ISPICA 76
+crAr
+eIpC
+lSIp
+eePt
+
+CARPIRE 72
+cRAR
+EIPC
+lsip
+eept
+
+CPP 66
+crar
+eipC
+lsiP
+eePt
+
+EPICA 65
+crAr
+eipC
+lsIp
+eEPt
+
+IPPICA 55
+crAr
+eIPC
+lsIP
+eept
+
+CIP 54
+crar
+eipC
+lsIp
+eePt
+
+CAPRIE 49
+cRAr
+EIPC
+lsip
+eept
+
+CAPIRE 49
+cRAr
+EIPC
+lsip
+eept
+
+CIPRIA 46
+cRAr
+eIPC
+lsIp
+eept
+
+ESPII 45
+crar
+eIpc
+lSIp
+EePt
+
+PRECISE 45
+CRar
+EIPc
+lSip
+Eept
+
+ESPIARE 43
+cRAr
+EIPc
+lSip
+Eept
+
+PIPIARE 42
+cRAr
+EIPc
+lsIp
+eePt
+
+CIEL 42
+crar
+eipC
+LsIp
+eEpt
+
+ESILE 41
+crar
+EIpc
+LSip
+Eept
+
+PILE 40
+crar
+eIPc
+Lsip
+Eept
+
+PESE 38
+crar
+eipc
+lSip
+EEPt
+
+IPSE 38
+crar
+eipc
+lSIp
+EePt
+
+CISPA 38
+crAr
+eiPC
+lSIp
+eept
+
+RISICA 37
+cRAr
+eIpC
+lSIp
+eept
+
+PIPARE 36
+cRAr
+EiPc
+lsIp
+eePt
+
+RELE 32
+cRar
+Eipc
+Lsip
+Eept
+
+CARIE 29
+cRAr
+EIpC
+lsip
+eept
+
+CILE 28
+Crar
+eIpc
+Lsip
+Eept
+
+RAPIRE 27
+cRAR
+EIPc
+lsip
+eept
+
+TIPPIE 26
+crar
+EIPc
+lsIP
+eepT
+
+ELIA 24
+crAr
+eIpc
+Lsip
+Eept
+
+PCI 24
+crar
+eiPC
+lsIp
+eept
+
+SPIARE 23
+cRAr
+EIPc
+lSip
+eept
+
+ARIEL 23
+cRAr
+EIpc
+Lsip
+eept
+
+PIPI 22
+crar
+eIPc
+lsIp
+eePt
+
+PIPA 22
+crAr
+eiPc
+lsIp
+eePt
+
+SLIP 22
+crar
+eIPc
+LSip
+eept
+
+PC 21
+crar
+eiPC
+lsip
+eept
+
+ARESE 21
+cRAr
+Eipc
+lSip
+Eept
+
+CRAC 21
+CRAr
+eipC
+lsip
+eept
+
+ISPRA 20
+crAR
+eIPc
+lSip
+eept
+
+CESIRA 20
+CRAr
+EIpc
+lSip
+eept
+
+SPII 19
+crar
+eIpc
+lSIp
+eePt
+
+SPIE 19
+crar
+eipc
+lSIp
+eEPt
+
+TIP 18
+crar
+eipc
+lsIp
+eePT
+
+PSI 18
+crar
+eIpc
+lSip
+eePt
+
+EPT 18
+crar
+eipc
+lsip
+eEPT
+
+SICA 18
+crAr
+eipC
+lSIp
+eept
+
+PIL 18
+crar
+eIPc
+Lsip
+eept
+
+ISP 18
+crar
+eIpc
+lSip
+eePt
+
+CIAC 18
+CrAr
+eIpC
+lsip
+eept
+
+PIE 17
+crar
+eipc
+lsIp
+eEPt
+
+SERPA 17
+cRAr
+EiPc
+lSip
+eept
+
+PI 16
+crar
+eipc
+lsIp
+eePt
+
+EL 16
+crar
+eipc
+Lsip
+Eept
+
+IP 16
+crar
+eipc
+lsIp
+eePt
+
+SPIRA 16
+cRAr
+eIPc
+lSip
+eept
+
+PIERA 16
+cRAr
+EIPc
+lsip
+eept
+
+APICE 16
+CrAr
+EIPc
+lsip
+eept
+
+RIEL 16
+cRar
+EIpc
+Lsip
+eept
+
+TIC 15
+crar
+eipC
+lsIp
+eepT
+
+SIC 15
+crar
+eipC
+lSIp
+eept
+
+LIRA 14
+cRAr
+eIpc
+Lsip
+eept
+
+ISERA 13
+cRAr
+EIpc
+lSip
+eept
+
+AIRES 13
+cRAr
+EIpc
+lSip
+eept
+
+RESIA 13
+cRAr
+EIpc
+lSip
+eept
+
+CESIA 13
+CrAr
+EIpc
+lSip
+eept
+
+CRISI 13
+CRar
+eIpc
+lSIp
+eept
+
+TISIA 12
+crAr
+eIpc
+lSIp
+eepT
+
+LEI 12
+crar
+EIpc
+Lsip
+eept
+
+PAR 12
+crAR
+eiPc
+lsip
+eept
+
+ACI 12
+crAr
+eipC
+lsIp
+eept
+
+LIA 10
+crAr
+eIpc
+Lsip
+eept
+
+PIER 10
+cRar
+EIPc
+lsip
+eept
+
+PARE 10
+cRAr
+EiPc
+lsip
+eept
+
+RAIS 10
+crAR
+eIpc
+lSip
+eept
+
+CA 9
+crAr
+eipC
+lsip
+eept
+
+IRAP 9
+cRAr
+eIPc
+lsip
+eept
+
+RIPI 9
+cRar
+eIPc
+lsIp
+eept
+
+RIPA 9
+cRAr
+eIPc
+lsip
+eept
+
+LI 8
+crar
+eIpc
+Lsip
+eept
+
+IL 8
+crar
+eIpc
+Lsip
+eept
+
+RAI 8
+crAR
+eIpc
+lsip
+eept
+
+SERA 7
+cRAr
+Eipc
+lSip
+eept
+
+SIRE 7
+cRar
+EIpc
+lSip
+eept
+
+PIA 7
+crAr
+eIPc
+lsip
+eept
+
+RA 7
+crAR
+eipc
+lsip
+eept
+
+TISI 6
+crar
+eIpc
+lSIp
+eepT
+
+ES 6
+crar
+eipc
+lSip
+Eept
+
+SE 6
+crar
+eipc
+lSip
+Eept
+
+AIRE 6
+cRAr
+EIpc
+lsip
+eept
+
+SEI 5
+crar
+EIpc
+lSip
+eept
+
+SIR 5
+cRar
+eIpc
+lSip
+eept
+
+ICE 5
+Crar
+EIpc
+lsip
+eept
+
+ERI 5
+cRar
+EIpc
+lsip
+eept
+
+ERA 5
+cRAr
+Eipc
+lsip
+eept
+
+SII 4
+crar
+eIpc
+lSIp
+eept
+
+SIA 4
+crAr
+eIpc
+lSip
+eept
+
+IRA 4
+cRAr
+eIpc
+lsip
+eept
+
+EIA 4
+crAr
+EIpc
+lsip
+eept
+
+RE 4
+cRar
+Eipc
+lsip
+eept
+
+TOTAL SCORE: 2358

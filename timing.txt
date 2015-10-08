@@ -1,0 +1,14 @@
+Running extended tests ...
+
+	IMPORT test passed (93076 words)
+	READING test passed
+	LOOKUP test passed
+
+	Full solution       :  61728 us/call (   405 calls in  25 s)
+	Dictionary import   :  56790 us/call (   405 calls in  23 s)
+	Grid import         :     33 us/call (303612 calls in  10 s)
+	Search algorithm    :    540 us/call ( 20373 calls in  11 s)
+	Output write        :    324 us/call ( 30843 calls in  10 s)
+	Dictionary read     :  17927 us/call (  1283 calls in  23 s)
+
+All tests OK!
